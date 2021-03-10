@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/bar-chart-app/static/js/main.d0f58f49.chunk.js",
+    "main.js.map": "/bar-chart-app/static/js/main.d0f58f49.chunk.js.map",
+    "runtime-main.js": "/bar-chart-app/static/js/runtime-main.0f600492.js",
+    "runtime-main.js.map": "/bar-chart-app/static/js/runtime-main.0f600492.js.map",
+    "static/js/2.651fc060.chunk.js": "/bar-chart-app/static/js/2.651fc060.chunk.js",
+    "static/js/2.651fc060.chunk.js.map": "/bar-chart-app/static/js/2.651fc060.chunk.js.map",
+    "index.html": "/bar-chart-app/index.html",
+    "static/js/2.651fc060.chunk.js.LICENSE.txt": "/bar-chart-app/static/js/2.651fc060.chunk.js.LICENSE.txt",
+    "static/media/info_icon.6bbc73ed.png": "/bar-chart-app/static/media/info_icon.6bbc73ed.png",
+    "static/media/left-copy-3.2e9de531.svg": "/bar-chart-app/static/media/left-copy-3.2e9de531.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f600492.js",
+    "static/js/2.651fc060.chunk.js",
+    "static/js/main.d0f58f49.chunk.js"
+  ]
+}
