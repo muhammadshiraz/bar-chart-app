@@ -2,7 +2,7 @@
   "homepage": "https://muhammadshiraz.github.io/bar-chart-app",
   "name": "react",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "React bar chart based on the dropout amount",
   "keywords": [
     "react",
     "starter"
